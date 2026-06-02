@@ -1,0 +1,2 @@
+# community-garden-meeting-minutes
+社区花园共建会议绿手指纪要全栈系统——前端显示花园实景照片与种植区划，后端处理居民讨论，Whisper转写花草名称与养护要点，pyannote区分发起人与居民，OpenAI生成植物配置图、浇水值日表与预算摘要，Markdown邮件发给居委会
